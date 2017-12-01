@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="facebook_app_id">1995541897368162</string>
+    <string name="fb_login_protocol_scheme">fb1995541897368162</string>
+    <string name="CONSUMER_KEY">LwgH3Z8AkBsVZ2oaqvgcBJp1y</string>
+    <string name="CONSUMER_SECRET">CeSPwfxcP79aNcub5lXONpdpxBWXeVeCe3Nr4YpaoPbQMBT5OR</string>
+    <string name="GOOGLE_CLIENT_ID">761681007394-8fid4m79qc9aapu7r52tn25rjfc6a2i3.apps.googleusercontent.com</string>
+</resources>
